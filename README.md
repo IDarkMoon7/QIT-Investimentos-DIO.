@@ -1,6 +1,6 @@
 # 🚀 QIT Investimentos
 
-![Banner](assets/Banner_QIT_Investimentos.png)
+![Banner](https://github.com/IDarkMoon7/QIT-Investimentos-DIO./blob/main/docs/assets/Banner_QIT_Investimentos.png)
 
 Este projeto foi desenvolvido como um desafio prático da **DIO (Digital Innovation One)**. O objetivo é fornecer uma ferramenta de tomada de decisão financeira que projeta o acúmulo de patrimônio e a geração de renda passiva ao longo do tempo.
 
