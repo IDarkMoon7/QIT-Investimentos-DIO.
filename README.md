@@ -46,7 +46,7 @@ A ferramenta detalha a distribuição do aporte mensal (para perfis Conservador,
 ## 🎨 Interface e UX
 O design foi planejado para ser intuitivo e "clean", utilizando uma paleta de cores amarela para destacar cabeçalhos e hierarquizar a informação. A organização em blocos permite que o usuário entenda sua estratégia financeira em segundos.
 
-![Interface da Planilha QIT](assets/Captura_de_telaQIT.jpg)
+![Interface da Planilha QIT](https://github.com/IDarkMoon7/QIT-Investimentos-DIO./blob/main/docs/assets/Captura_de_tela_QIT.jpg)
 
 ---
 
